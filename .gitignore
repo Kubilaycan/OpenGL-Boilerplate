@@ -1,0 +1,9 @@
+*.sln
+*.ini
+*.vcxproj
+*.filters
+*.user
+.vs/
+bin/*
+OpenGL/resources/skyboxes/*
+OpenGL/resources/shaders/Skybox.glsl
